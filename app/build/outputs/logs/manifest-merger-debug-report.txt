@@ -35,3 +35,7 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:11:17
 	android:name
 		ADDED from AndroidManifest.xml:11:27
+uses-permission#android.permission.READ_CONTACTS
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
